@@ -1,15 +1,18 @@
 resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
 
 # Imprima na tela a variável "resumo"
-
+resumo ="Paloma é uma mulher de 46 anos que deseja mudar de profissão, por isso está estudando 'python'."
 
 # Imprima na tela apenas a segunda letra da variável
 
+print (resumo)
 
 # Imprima na tela a idade de Paloma (resposta esperada: "46")
 
-
+resumo [1]
+resumo [:6]
 # Imprima na tela o trecho final da variável
+
 
 
 # Converta todos as letras para minúsculo e imprima na tela
