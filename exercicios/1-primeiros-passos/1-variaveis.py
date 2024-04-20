@@ -9,3 +9,10 @@
 
 
 # Declare uma variável do tipo booleano
+nome = 'Nin'
+profission = "Seler"
+objective = ''''''
+number_intejer = 6
+cash = 1312.00
+verdadeiro = True
+falso = False
