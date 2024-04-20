@@ -3,13 +3,13 @@
 # - O nome pode ser composto por letras, algarismos e underlines;
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
-# Declare variáveis do tipo string
+# Declare variáveis do tipo string, aspas simples, duplas ou triplas (utilizada quando a string tem mais de uma linha)
 
 # Declare variáveis de cada tipo numérico
 
 
 # Declare uma variável do tipo booleano
-nome = 'Nin'
+nome = 'Nin' 
 profission = "Seler"
 objective = ''''''
 number_intejer = 6
