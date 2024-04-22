@@ -8,11 +8,15 @@ pessoa = {'nome':'Crislaine',
 
 # Imprima na tela o valor equivalente a chave "hobby"
 
+print(pessoa['hobby'])
+
 
 # Imprima na tela uma lista apenas com os valores do dicionário
-
-
+valores = list(pessoa.value ())
+print (valores)
 # Imprima na tela uma lista apenas com as chaves do dicionário
 
+chave = list(pessoa.keys ())
+print (chave)
 
 # Insira um novo par chave-valor no dicionário
