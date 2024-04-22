@@ -19,6 +19,7 @@ def percorre_niveis_curso(curso_selecionado):
     else:
         print(f'Você concluir o {curso_atual} com sucesso!!')
 
+
 # Execute as funções
 curso = seleciona_curso_trilha()
 percorre_niveis_curso(curso)
